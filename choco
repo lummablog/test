@@ -1,5 +1,6 @@
 <DOSCTYPE html>
 <html>
+  <link rel="stylesheet" href="chocostyle.css">
 <body>
 <header>
 Csokis muffin recept
