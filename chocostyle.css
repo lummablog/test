@@ -1,3 +1,36 @@
 body {
-  background-color: powderblue;
-}
+  background-color: ;
+    margin: 0px;
+    .headerLabel {
+        font-size: 35px;
+        font-family: Arial;
+        padding: 10px;
+    }
+        .maincontent {
+            color: lightbrown;
+            background: saddlebrown;
+            text-align: center;
+            align-content: center;
+            float: left;
+            width: 100%;
+            outline-style: dotted;
+            }
+            .leftColumn {
+                float: left;
+                width: 5%;
+                outline-style: dashed;
+            }
+
+            ul.normalList {
+             display: inline-block;
+             text-align: left;
+             list-style: square;
+             outline-style: dashed;
+          }
+            ol.normalList {
+                display: inline-block;
+                text-align: left;
+                list-style: square;
+                outline-style: dashed;
+            }
+    }
